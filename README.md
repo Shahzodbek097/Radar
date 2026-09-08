@@ -1,0 +1,2 @@
+# Radar
+Tezlokni aniqlaydi
